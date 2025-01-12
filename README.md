@@ -1,8 +1,10 @@
 # About the Project
 
-It supports multiplying two 80-million-digit unsigned integers, or a one-digit integer with a 500-million-digit integer theoretically.
+Unsigned integer multiplication based on assembly.
 
-However, due to lack of optimization, multiplying extremely large nubers will be very slow.
+As for boundary conditions, it supports multiplying two 80-million-digit numbers, or a one-digit number with a 500-million-digit number theoretically.
+
+However, due to lack of optimization, multiplying extremely large numbers will be very slow.
 
 # How to Use
 
